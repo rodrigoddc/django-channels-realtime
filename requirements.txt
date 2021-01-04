@@ -16,7 +16,7 @@ Django==3.0.7
 django-channels==0.7.0
 hiredis==1.0.1
 hyperlink==19.0.0
-idna==2.9
+idna==3.1
 incremental==17.5.0
 msgpack==1.0.0
 oauthlib==3.1.0
